@@ -1,10 +1,7 @@
 # Epg_API
 
 
-This Project by KavehRS is licensed under a
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons 
-Attribution Non-Commercial 3.0 License</a>.
 
 Python version
 --------------
@@ -95,3 +92,10 @@ Test Service:
         </ns0:create_note>
       </ns1:Body>
     </SOAP-ENV:Envelope>
+    
+    
+This Project by KavehRS is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons 
+Attribution Non-Commercial 3.0 License</a>.
+    
+    
+    
